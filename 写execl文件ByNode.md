@@ -20,5 +20,6 @@ fs.writeFile('./resut.xlsx', buffer, function (err) {
   console.log('has finished');
 });
 ```
-
+### 效果
+![node for execl](http://7jpswm.com1.z0.glb.clouddn.com/fuckjs237.pic.jpg)
 
